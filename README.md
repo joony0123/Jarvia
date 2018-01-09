@@ -3,18 +3,10 @@
 Customizable personal mobile (Android) AI assistant.
 
 
-
+## Sample Images
 <img src="https://user-images.githubusercontent.com/22063984/34735235-c367c24c-f53c-11e7-9abb-32a0d629754f.jpg" width="300">
-
-
-
 <img src="https://user-images.githubusercontent.com/22063984/34735263-da5efb6e-f53c-11e7-9610-c75c01193f5f.jpg" width="300">
-
-
-
 <img src="https://user-images.githubusercontent.com/22063984/34735283-e8eb9570-f53c-11e7-9c05-374eb54eff89.jpg" width="300">
-
-
 
 
 ## Built With
