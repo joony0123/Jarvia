@@ -1,4 +1,4 @@
-# Jarvia (Just A Rather Very Intelligent Assistant)
+# Jarvia (Just A Rather Very Intelligent Assistant) - Korean
 
 Customizable personal mobile (Android) AI assistant.
 
